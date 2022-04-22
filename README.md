@@ -1,1 +1,1 @@
-# TensorBoard-AI-Notebooks-OVHcloud
+# Use TensorBoard inside AI notebooks (OVHcloud)
